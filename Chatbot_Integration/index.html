@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Integration</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        p {
+            margin-bottom: 40px;
+        }
+        .chatbox-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+        }
+        .chatbox {
+            width: 350px;
+            height: 450px;
+            border: none;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Our Website</h1>
+    <p>Feel free to ask our chatbot any questions you may have!</p>
+    
+    <div class="chatbox-container">
+        <iframe class="chatbox"
+            allow="microphone;"
+            src="https://console.dialogflow.com/api-client/demo/embedded/346adf70-50a7-49a2-80b9-cc4ace328f57">
+        </iframe>
+    </div>
+</body>
+</html>

@@ -1,0 +1,42 @@
+[
+    {
+        "userQuery": "What are your store hours?",
+        "expectedResponse": "Our store hours are from 9 AM to 9 PM, Monday to Saturday."
+    },
+    {
+        "userQuery": "Can I return a product?",
+        "expectedResponse": "Yes, you can return a product within 30 days of purchase with the receipt."
+    },
+    {
+        "userQuery": "Where is my order?",
+        "expectedResponse": "To track your order, please provide your order number."
+    },
+    {
+        "userQuery": "Do you offer international shipping?",
+        "expectedResponse": "Yes, we offer international shipping to select countries. Please visit our shipping page for more details."
+    },
+    {
+        "userQuery": "How can I reset my password?",
+        "expectedResponse": "To reset your password, click on 'Forgot Password' on the login page and follow the instructions."
+    },
+    {
+        "userQuery": "What payment methods do you accept?",
+        "expectedResponse": "We accept Visa, MasterCard, American Express, and PayPal."
+    },
+    {
+        "userQuery": "How do I contact customer support?",
+        "expectedResponse": "You can contact our customer support via email at support@example.com or call us at (123) 456-7890."
+    },
+    {
+        "userQuery": "What is your return policy?",
+        "expectedResponse": "Our return policy allows returns within 30 days of purchase. The product must be in its original condition."
+    },
+    {
+        "userQuery": "Do you have any discounts currently?",
+        "expectedResponse": "Please visit our 'Offers' page to see the current discounts and promotions."
+    },
+    {
+        "userQuery": "How do I create an account?",
+        "expectedResponse": "To create an account, click on 'Sign Up' at the top right of the page and fill in the required details."
+    }
+]

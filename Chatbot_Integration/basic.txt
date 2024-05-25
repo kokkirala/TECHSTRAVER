@@ -1,0 +1,12 @@
+[2024-05-23 10:00:00] User: Hello
+[2024-05-23 10:00:01] Chatbot: Hi there! How can I assist you today?
+[2024-05-23 10:00:05] User: I need help with my account settings.
+[2024-05-23 10:00:06] Chatbot: Sure thing! What specifically do you need help with regarding your account settings?
+[2024-05-23 10:00:10] User: I want to change my email address.
+[2024-05-23 10:00:11] Chatbot: To change your email address, please navigate to the "Settings" section of your account dashboard. You should find an option there to update your email.
+[2024-05-23 10:00:15] User: Thank you!
+[2024-05-23 10:00:16] Chatbot: You're welcome! If you have any further questions, feel free to ask.
+[2024-05-23 10:00:20] User: How can I contact customer support?
+[2024-05-23 10:00:21] Chatbot: You can reach our customer support team by clicking on the "Support" tab on our website or by emailing support@example.com.
+[2024-05-23 10:00:25] User: Okay, thanks.
+[2024-05-23 10:00:26] Chatbot: No problem! Let me know if there's anything else I can help with.
